@@ -1,3 +1,5 @@
+**Telegram Bot Translator**
+
 Bot Telegram Penerjemah adalah sebuah aplikasi bot yang memungkinkan pengguna untuk menerjemahkan pesan ke dalam berbagai bahasa. Bot ini menyediakan layanan terjemahan ke Bahasa Indonesia, Bahasa Inggris, Jerman, 한국어, dan berbagai bahasa lainnya. Berikut adalah beberapa fitur dan cara penggunaan bot ini:
 
 Fitur
